@@ -1,0 +1,12 @@
+/Users/mac/Documents/Open Cart Project/OpenCartApplication/src/test/java/pageObjects/HomePage.java
+/Users/mac/Documents/Open Cart Project/OpenCartApplication/src/test/java/pageObjects/LoginPage.java
+/Users/mac/Documents/Open Cart Project/OpenCartApplication/src/test/java/pageObjects/MyAccountPage.java
+/Users/mac/Documents/Open Cart Project/OpenCartApplication/src/test/java/pageObjects/Registeration.java
+/Users/mac/Documents/Open Cart Project/OpenCartApplication/src/test/java/testBase/BaseClass.java
+/Users/mac/Documents/Open Cart Project/OpenCartApplication/src/test/java/testBase/BasePage.java
+/Users/mac/Documents/Open Cart Project/OpenCartApplication/src/test/java/testCases/TC001_AccountRegisterationTest.java
+/Users/mac/Documents/Open Cart Project/OpenCartApplication/src/test/java/testCases/TC002_Login_Test.java
+/Users/mac/Documents/Open Cart Project/OpenCartApplication/src/test/java/testCases/TC003_LoginDDD.java
+/Users/mac/Documents/Open Cart Project/OpenCartApplication/src/test/java/utilities/DataProviders.java
+/Users/mac/Documents/Open Cart Project/OpenCartApplication/src/test/java/utilities/ExcelUtility.java
+/Users/mac/Documents/Open Cart Project/OpenCartApplication/src/test/java/utilities/ExtentReportManager.java

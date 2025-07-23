@@ -1,0 +1,692 @@
+07:38:54.927 [main] INFO  testCases.TC001_AccountRegisterationTest.verifyAccountRegisteration(TC001_AccountRegisterationTest.java:23)oggger - ********** TC Started *********
+07:38:54.982 [main] INFO  testCases.TC001_AccountRegisterationTest.verifyAccountRegisteration(TC001_AccountRegisterationTest.java:27)oggger - Click MyAccount
+07:38:55.233 [main] INFO  testCases.TC001_AccountRegisterationTest.verifyAccountRegisteration(TC001_AccountRegisterationTest.java:29)oggger - Register
+07:38:56.319 [main] INFO  testCases.TC001_AccountRegisterationTest.verifyAccountRegisteration(TC001_AccountRegisterationTest.java:45)oggger - Passed
+07:38:56.319 [main] INFO  testCases.TC001_AccountRegisterationTest.verifyAccountRegisteration(TC001_AccountRegisterationTest.java:52)oggger - ************ TC Finisdhed********
+07:49:11.859 [main] INFO  testCases.TC001_AccountRegisterationTest.verifyAccountRegisteration(TC001_AccountRegisterationTest.java:23)oggger - ********** TC Started *********
+07:49:11.913 [main] INFO  testCases.TC001_AccountRegisterationTest.verifyAccountRegisteration(TC001_AccountRegisterationTest.java:27)oggger - Click MyAccount
+07:49:12.280 [main] INFO  testCases.TC001_AccountRegisterationTest.verifyAccountRegisteration(TC001_AccountRegisterationTest.java:29)oggger - Register
+07:49:13.313 [main] INFO  testCases.TC001_AccountRegisterationTest.verifyAccountRegisteration(TC001_AccountRegisterationTest.java:63)oggger - ************ TC Finisdhed********
+08:13:55.440 [main] INFO  testCases.TC001_AccountRegisterationTest.verifyAccountRegisteration(TC001_AccountRegisterationTest.java:26)oggger - ********** TC Started *********
+08:13:55.503 [main] INFO  testCases.TC001_AccountRegisterationTest.verifyAccountRegisteration(TC001_AccountRegisterationTest.java:30)oggger - Click MyAccount
+08:13:55.763 [main] INFO  testCases.TC001_AccountRegisterationTest.verifyAccountRegisteration(TC001_AccountRegisterationTest.java:32)oggger - Register
+08:13:56.840 [main] INFO  testCases.TC001_AccountRegisterationTest.verifyAccountRegisteration(TC001_AccountRegisterationTest.java:66)oggger - ************ TC Finisdhed********
+08:14:44.909 [main] INFO  testCases.TC001_AccountRegisterationTest.verifyAccountRegisteration(TC001_AccountRegisterationTest.java:26)oggger - ********** TC Started *********
+08:14:44.965 [main] INFO  testCases.TC001_AccountRegisterationTest.verifyAccountRegisteration(TC001_AccountRegisterationTest.java:30)oggger - Click MyAccount
+08:14:44.987 [main] INFO  testCases.TC001_AccountRegisterationTest.verifyAccountRegisteration(TC001_AccountRegisterationTest.java:32)oggger - Register
+08:17:05.547 [main] INFO  testCases.TC001_AccountRegisterationTest.verifyAccountRegisteration(TC001_AccountRegisterationTest.java:26)oggger - ********** TC Started *********
+08:17:05.605 [main] INFO  testCases.TC001_AccountRegisterationTest.verifyAccountRegisteration(TC001_AccountRegisterationTest.java:30)oggger - Click MyAccount
+08:17:05.635 [main] INFO  testCases.TC001_AccountRegisterationTest.verifyAccountRegisteration(TC001_AccountRegisterationTest.java:32)oggger - Register
+08:17:52.504 [main] INFO  testCases.TC001_AccountRegisterationTest.verifyAccountRegisteration(TC001_AccountRegisterationTest.java:26)oggger - ********** TC Started *********
+08:17:52.576 [main] INFO  testCases.TC001_AccountRegisterationTest.verifyAccountRegisteration(TC001_AccountRegisterationTest.java:30)oggger - Click MyAccount
+08:17:52.840 [main] INFO  testCases.TC001_AccountRegisterationTest.verifyAccountRegisteration(TC001_AccountRegisterationTest.java:32)oggger - Register
+08:17:53.861 [main] INFO  testCases.TC001_AccountRegisterationTest.verifyAccountRegisteration(TC001_AccountRegisterationTest.java:66)oggger - ************ TC Finisdhed********
+08:18:52.553 [main] INFO  testCases.TC001_AccountRegisterationTest.verifyAccountRegisteration(TC001_AccountRegisterationTest.java:26)oggger - ********** TC Started *********
+08:18:52.598 [main] INFO  testCases.TC001_AccountRegisterationTest.verifyAccountRegisteration(TC001_AccountRegisterationTest.java:30)oggger - Click MyAccount
+08:18:52.641 [main] INFO  testCases.TC001_AccountRegisterationTest.verifyAccountRegisteration(TC001_AccountRegisterationTest.java:32)oggger - Register
+08:32:43.459 [main] INFO  testCases.TC001_AccountRegisterationTest.verifyAccountRegisteration(TC001_AccountRegisterationTest.java:26)oggger - ********** TC Started *********
+08:32:43.524 [main] INFO  testCases.TC001_AccountRegisterationTest.verifyAccountRegisteration(TC001_AccountRegisterationTest.java:31)oggger - Click MyAccount
+08:32:43.794 [main] INFO  testCases.TC001_AccountRegisterationTest.verifyAccountRegisteration(TC001_AccountRegisterationTest.java:33)oggger - Register
+08:32:44.798 [main] INFO  testCases.TC001_AccountRegisterationTest.verifyAccountRegisteration(TC001_AccountRegisterationTest.java:67)oggger - ************ TC Finisdhed********
+08:33:16.835 [TestNG-tests-1] INFO  testCases.TC001_AccountRegisterationTest.verifyAccountRegisteration(TC001_AccountRegisterationTest.java:26)oggger - ********** TC Started *********
+08:33:16.891 [TestNG-tests-1] INFO  testCases.TC001_AccountRegisterationTest.verifyAccountRegisteration(TC001_AccountRegisterationTest.java:31)oggger - Click MyAccount
+08:33:17.160 [TestNG-tests-1] INFO  testCases.TC001_AccountRegisterationTest.verifyAccountRegisteration(TC001_AccountRegisterationTest.java:33)oggger - Register
+08:33:18.175 [TestNG-tests-1] INFO  testCases.TC001_AccountRegisterationTest.verifyAccountRegisteration(TC001_AccountRegisterationTest.java:67)oggger - ************ TC Finisdhed********
+08:47:53.754 [main] INFO  testCases.TC001_AccountRegisterationTest.verifyAccountRegisteration(TC001_AccountRegisterationTest.java:26)oggger - ********** TC Started *********
+08:47:53.808 [main] INFO  testCases.TC001_AccountRegisterationTest.verifyAccountRegisteration(TC001_AccountRegisterationTest.java:31)oggger - Click MyAccount
+08:47:54.094 [main] INFO  testCases.TC001_AccountRegisterationTest.verifyAccountRegisteration(TC001_AccountRegisterationTest.java:33)oggger - Register
+08:47:55.116 [main] INFO  testCases.TC001_AccountRegisterationTest.verifyAccountRegisteration(TC001_AccountRegisterationTest.java:67)oggger - ************ TC Finisdhed********
+08:36:20.737 [main] INFO  testCases.TC002_Login_Test.verifyLogin(TC002_Login_Test.java:16)oggger - ********** TC Started *********
+08:36:20.811 [main] INFO  testCases.TC002_Login_Test.verifyLogin(TC002_Login_Test.java:21)oggger - Click MyAccount
+08:36:20.982 [main] INFO  testCases.TC002_Login_Test.verifyLogin(TC002_Login_Test.java:23)oggger - Click Login in My Account 
+08:36:21.054 [main] INFO  testCases.TC002_Login_Test.verifyLogin(TC002_Login_Test.java:27)oggger - Entered email
+08:36:21.088 [main] INFO  testCases.TC002_Login_Test.verifyLogin(TC002_Login_Test.java:29)oggger - Entered password
+08:36:21.837 [main] INFO  testCases.TC002_Login_Test.verifyLogin(TC002_Login_Test.java:36)oggger - *********TC Passed***********
+08:36:21.837 [main] INFO  testCases.TC002_Login_Test.verifyLogin(TC002_Login_Test.java:41)oggger - *********TC Finished***********
+08:38:59.296 [main] INFO  testCases.TC002_Login_Test.verifyLogin(TC002_Login_Test.java:16)oggger - ********** TC Started *********
+08:38:59.360 [main] INFO  testCases.TC002_Login_Test.verifyLogin(TC002_Login_Test.java:21)oggger - Click MyAccount
+08:38:59.584 [main] INFO  testCases.TC002_Login_Test.verifyLogin(TC002_Login_Test.java:23)oggger - Click Login in My Account 
+08:38:59.670 [main] INFO  testCases.TC002_Login_Test.verifyLogin(TC002_Login_Test.java:27)oggger - Entered email
+08:38:59.704 [main] INFO  testCases.TC002_Login_Test.verifyLogin(TC002_Login_Test.java:29)oggger - Entered password
+08:39:00.434 [main] INFO  testCases.TC002_Login_Test.verifyLogin(TC002_Login_Test.java:36)oggger - *********TC Passed***********
+08:39:00.434 [main] INFO  testCases.TC002_Login_Test.verifyLogin(TC002_Login_Test.java:41)oggger - *********TC Finished***********
+08:40:02.529 [main] INFO  testCases.TC002_Login_Test - ********** TC Started *********
+08:40:02.593 [main] INFO  testCases.TC002_Login_Test - Click MyAccount
+08:40:03.227 [main] INFO  testCases.TC002_Login_Test - Click Login in My Account 
+08:40:03.315 [main] INFO  testCases.TC002_Login_Test - Entered email
+08:40:03.353 [main] INFO  testCases.TC002_Login_Test - Entered password
+08:40:05.830 [main] INFO  testCases.TC002_Login_Test - *********TC Passed***********
+08:40:05.830 [main] INFO  testCases.TC002_Login_Test - *********TC Finished***********
+08:46:37.619 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+08:46:37.621 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+08:46:37.622 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+08:46:37.846 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+08:46:37.847 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+08:46:37.847 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+08:46:37.860 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+08:46:37.861 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+08:46:37.861 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+08:46:37.876 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+08:46:37.876 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+08:46:37.877 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+08:46:37.887 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+08:46:37.888 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+08:46:37.888 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+08:46:37.898 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+08:46:37.899 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+08:46:37.899 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+08:46:37.908 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+08:46:37.909 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+08:46:37.909 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+08:46:37.919 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+08:46:37.920 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+08:46:37.920 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+08:46:37.930 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+08:46:37.930 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+08:46:37.931 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+08:46:37.939 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+08:46:37.940 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+08:46:37.940 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+08:46:37.948 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+08:46:37.948 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+08:46:37.949 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+08:46:37.962 [main] INFO  testCases.TC003_LoginDDD - *******TC Started***********
+08:46:38.026 [main] INFO  testCases.TC003_LoginDDD - Click MyAccount
+08:46:38.214 [main] INFO  testCases.TC003_LoginDDD - Click Login in My Account 
+08:46:38.295 [main] INFO  testCases.TC003_LoginDDD - Entered email
+08:46:38.331 [main] INFO  testCases.TC003_LoginDDD - Entered password
+08:46:40.204 [main] INFO  testCases.TC003_LoginDDD - ******TC PASSED********
+08:46:40.204 [main] INFO  testCases.TC003_LoginDDD - ******TC Finished********
+08:46:40.206 [main] INFO  testCases.TC003_LoginDDD - *******TC Started***********
+08:46:40.243 [main] INFO  testCases.TC003_LoginDDD - Click MyAccount
+08:46:40.410 [main] INFO  testCases.TC003_LoginDDD - Click Login in My Account 
+08:46:40.446 [main] INFO  testCases.TC003_LoginDDD - Entered email
+08:46:40.476 [main] INFO  testCases.TC003_LoginDDD - Entered password
+08:46:41.652 [main] INFO  testCases.TC003_LoginDDD - ******TC Failed********
+08:46:41.657 [main] INFO  testCases.TC003_LoginDDD - *******TC Started***********
+08:46:41.689 [main] INFO  testCases.TC003_LoginDDD - Click MyAccount
+08:46:51.717 [main] ERROR testCases.TC003_LoginDDD - Exception occurred: no such element: Unable to locate element: {"method":"xpath","selector":"//a[text()='Login']"}
+  (Session info: chrome=138.0.7204.102)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.34.0', revision: '707dcb4246*'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '15.5', java.version: '23'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [c5092bfc0caa61ab5082f788cd58ac7b, findElement {using=xpath, value=//a[text()='Login']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 138.0.7204.102, chrome: {chromedriverVersion: 138.0.7204.157 (e533e98b126..., userDataDir: /var/folders/ff/wq2_7g9x1md...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:54575}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:54575/devtoo..., se:cdpVersion: 138.0.7204.102, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: c5092bfc0caa61ab5082f788cd58ac7b
+org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//a[text()='Login']"}
+  (Session info: chrome=138.0.7204.102)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.34.0', revision: '707dcb4246*'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '15.5', java.version: '23'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [c5092bfc0caa61ab5082f788cd58ac7b, findElement {using=xpath, value=//a[text()='Login']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 138.0.7204.102, chrome: {chromedriverVersion: 138.0.7204.157 (e533e98b126..., userDataDir: /var/folders/ff/wq2_7g9x1md...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:54575}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:54575/devtoo..., se:cdpVersion: 138.0.7204.102, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: c5092bfc0caa61ab5082f788cd58ac7b
+	at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62) ~[?:?]
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:501) ~[?:?]
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:485) ~[?:?]
+	at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167) ~[selenium-remote-driver-4.34.0.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138) ~[selenium-remote-driver-4.34.0.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50) ~[selenium-remote-driver-4.34.0.jar:?]
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:215) ~[selenium-remote-driver-4.34.0.jar:?]
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216) ~[selenium-remote-driver-4.34.0.jar:?]
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174) ~[selenium-remote-driver-4.34.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:544) ~[selenium-remote-driver-4.34.0.jar:?]
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165) ~[selenium-remote-driver-4.34.0.jar:?]
+	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:59) ~[selenium-remote-driver-4.34.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:367) ~[selenium-remote-driver-4.34.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:361) ~[selenium-remote-driver-4.34.0.jar:?]
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:68) ~[selenium-support-4.34.0.jar:?]
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38) ~[selenium-support-4.34.0.jar:?]
+	at jdk.proxy2/jdk.proxy2.$Proxy30.click(Unknown Source) ~[?:?]
+	at pageObjects.HomePage.clickLogin(HomePage.java:34) ~[test-classes/:?]
+	at testCases.TC003_LoginDDD.verifyLoginDDT(TC003_LoginDDD.java:22) ~[test-classes/:?]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:687) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134) ~[testng-7.11.0.jar:7.11.0]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1597) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:741) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestRunner.run(TestRunner.java:616) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.runSuites(TestNG.java:1112) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.run(TestNG.java:1079) [testng-7.11.0.jar:7.11.0]
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91) [testng-remote.jar:?]
+08:48:04.653 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+08:48:04.655 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+08:48:04.656 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+08:48:04.875 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+08:48:04.876 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+08:48:04.876 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+08:48:04.890 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+08:48:04.891 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+08:48:04.892 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+08:48:04.906 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+08:48:04.907 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+08:48:04.907 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+08:48:04.919 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+08:48:04.919 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+08:48:04.920 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+08:48:04.930 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+08:48:04.931 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+08:48:04.931 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+08:48:04.940 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+08:48:04.940 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+08:48:04.941 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+08:48:04.950 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+08:48:04.950 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+08:48:04.951 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+08:48:04.959 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+08:48:04.960 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+08:48:04.960 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+08:48:04.968 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+08:48:04.968 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+08:48:04.968 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+08:48:04.976 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+08:48:04.977 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+08:48:04.977 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+08:48:04.989 [main] INFO  testCases.TC003_LoginDDD - *******TC Started***********
+08:48:05.058 [main] INFO  testCases.TC003_LoginDDD - Click MyAccount
+08:48:05.237 [main] INFO  testCases.TC003_LoginDDD - Click Login in My Account 
+08:48:05.317 [main] INFO  testCases.TC003_LoginDDD - Entered email
+08:48:05.357 [main] INFO  testCases.TC003_LoginDDD - Entered password
+08:48:06.304 [main] INFO  testCases.TC003_LoginDDD - ******TC PASSED********
+08:48:06.304 [main] INFO  testCases.TC003_LoginDDD - ******TC Finished********
+08:48:06.306 [main] INFO  testCases.TC003_LoginDDD - *******TC Started***********
+08:48:06.339 [main] INFO  testCases.TC003_LoginDDD - Click MyAccount
+08:48:06.541 [main] INFO  testCases.TC003_LoginDDD - Click Login in My Account 
+08:48:06.577 [main] INFO  testCases.TC003_LoginDDD - Entered email
+08:48:06.608 [main] INFO  testCases.TC003_LoginDDD - Entered password
+08:48:27.495 [main] ERROR testCases.TC003_LoginDDD - Exception occurred: no such element: Unable to locate element: {"method":"xpath","selector":"//ul[@class='dropdown-menu dropdown-menu-right']//a[text()='Logout']"}
+  (Session info: chrome=138.0.7204.102)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.34.0', revision: '707dcb4246*'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '15.5', java.version: '23'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [7b805a03f4c78ecbda51ef327099ea6a, findElement {value=//ul[@class='dropdown-menu dropdown-menu-right']//a[text()='Logout'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 138.0.7204.102, chrome: {chromedriverVersion: 138.0.7204.157 (e533e98b126..., userDataDir: /var/folders/ff/wq2_7g9x1md...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:54952}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:54952/devtoo..., se:cdpVersion: 138.0.7204.102, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 7b805a03f4c78ecbda51ef327099ea6a
+org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//ul[@class='dropdown-menu dropdown-menu-right']//a[text()='Logout']"}
+  (Session info: chrome=138.0.7204.102)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.34.0', revision: '707dcb4246*'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '15.5', java.version: '23'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [7b805a03f4c78ecbda51ef327099ea6a, findElement {value=//ul[@class='dropdown-menu dropdown-menu-right']//a[text()='Logout'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 138.0.7204.102, chrome: {chromedriverVersion: 138.0.7204.157 (e533e98b126..., userDataDir: /var/folders/ff/wq2_7g9x1md...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:54952}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:54952/devtoo..., se:cdpVersion: 138.0.7204.102, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 7b805a03f4c78ecbda51ef327099ea6a
+	at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62) ~[?:?]
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:501) ~[?:?]
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:485) ~[?:?]
+	at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167) ~[selenium-remote-driver-4.34.0.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138) ~[selenium-remote-driver-4.34.0.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50) ~[selenium-remote-driver-4.34.0.jar:?]
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:215) ~[selenium-remote-driver-4.34.0.jar:?]
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216) ~[selenium-remote-driver-4.34.0.jar:?]
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174) ~[selenium-remote-driver-4.34.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:544) ~[selenium-remote-driver-4.34.0.jar:?]
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165) ~[selenium-remote-driver-4.34.0.jar:?]
+	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:59) ~[selenium-remote-driver-4.34.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:367) ~[selenium-remote-driver-4.34.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:361) ~[selenium-remote-driver-4.34.0.jar:?]
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:68) ~[selenium-support-4.34.0.jar:?]
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38) ~[selenium-support-4.34.0.jar:?]
+	at jdk.proxy2/jdk.proxy2.$Proxy30.click(Unknown Source) ~[?:?]
+	at pageObjects.MyAccountPage.clickLogout(MyAccountPage.java:35) ~[test-classes/:?]
+	at testCases.TC003_LoginDDD.verifyLoginDDT(TC003_LoginDDD.java:46) ~[test-classes/:?]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:687) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134) ~[testng-7.11.0.jar:7.11.0]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1597) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:741) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestRunner.run(TestRunner.java:616) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.runSuites(TestNG.java:1112) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.run(TestNG.java:1079) [testng-7.11.0.jar:7.11.0]
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91) [testng-remote.jar:?]
+08:48:27.507 [main] INFO  testCases.TC003_LoginDDD - *******TC Started***********
+08:48:27.537 [main] INFO  testCases.TC003_LoginDDD - Click MyAccount
+08:48:37.588 [main] ERROR testCases.TC003_LoginDDD - Exception occurred: element not interactable
+  (Session info: chrome=138.0.7204.102)
+Build info: version: '4.34.0', revision: '707dcb4246*'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '15.5', java.version: '23'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [7b805a03f4c78ecbda51ef327099ea6a, clickElement {id=f.F0605DD7047764C68E5BA012F6C0B679.d.0FC18D7F09A779D93993BBC3252C0394.e.149}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 138.0.7204.102, chrome: {chromedriverVersion: 138.0.7204.157 (e533e98b126..., userDataDir: /var/folders/ff/wq2_7g9x1md...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:54952}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:54952/devtoo..., se:cdpVersion: 138.0.7204.102, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on mac (7b805a03f4c78ecbda51ef327099ea6a)] -> xpath: //a[text()='Login']]
+Session ID: 7b805a03f4c78ecbda51ef327099ea6a
+org.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=138.0.7204.102)
+Build info: version: '4.34.0', revision: '707dcb4246*'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '15.5', java.version: '23'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [7b805a03f4c78ecbda51ef327099ea6a, clickElement {id=f.F0605DD7047764C68E5BA012F6C0B679.d.0FC18D7F09A779D93993BBC3252C0394.e.149}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 138.0.7204.102, chrome: {chromedriverVersion: 138.0.7204.157 (e533e98b126..., userDataDir: /var/folders/ff/wq2_7g9x1md...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:54952}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:54952/devtoo..., se:cdpVersion: 138.0.7204.102, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on mac (7b805a03f4c78ecbda51ef327099ea6a)] -> xpath: //a[text()='Login']]
+Session ID: 7b805a03f4c78ecbda51ef327099ea6a
+	at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62) ~[?:?]
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:501) ~[?:?]
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:485) ~[?:?]
+	at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167) ~[selenium-remote-driver-4.34.0.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138) ~[selenium-remote-driver-4.34.0.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50) ~[selenium-remote-driver-4.34.0.jar:?]
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:215) ~[selenium-remote-driver-4.34.0.jar:?]
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216) ~[selenium-remote-driver-4.34.0.jar:?]
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174) ~[selenium-remote-driver-4.34.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:544) ~[selenium-remote-driver-4.34.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:223) ~[selenium-remote-driver-4.34.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:76) ~[selenium-remote-driver-4.34.0.jar:?]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:51) ~[selenium-support-4.34.0.jar:?]
+	at jdk.proxy2/jdk.proxy2.$Proxy30.click(Unknown Source) ~[?:?]
+	at pageObjects.HomePage.clickLogin(HomePage.java:34) ~[test-classes/:?]
+	at testCases.TC003_LoginDDD.verifyLoginDDT(TC003_LoginDDD.java:22) ~[test-classes/:?]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:687) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134) ~[testng-7.11.0.jar:7.11.0]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1597) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:741) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestRunner.run(TestRunner.java:616) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.runSuites(TestNG.java:1112) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.run(TestNG.java:1079) [testng-7.11.0.jar:7.11.0]
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91) [testng-remote.jar:?]
+08:49:26.107 [main] INFO  testCases.TC003_LoginDDD - *******TC Started***********
+08:49:26.175 [main] INFO  testCases.TC003_LoginDDD - Click MyAccount
+08:49:26.353 [main] INFO  testCases.TC003_LoginDDD - Click Login in My Account 
+08:49:26.423 [main] INFO  testCases.TC003_LoginDDD - Entered email
+08:49:26.458 [main] INFO  testCases.TC003_LoginDDD - Entered password
+08:49:27.530 [main] INFO  testCases.TC003_LoginDDD - ******TC PASSED********
+08:49:27.530 [main] INFO  testCases.TC003_LoginDDD - ******TC Finished********
+08:49:27.533 [main] INFO  testCases.TC003_LoginDDD - *******TC Started***********
+08:49:27.569 [main] INFO  testCases.TC003_LoginDDD - Click MyAccount
+08:49:27.744 [main] INFO  testCases.TC003_LoginDDD - Click Login in My Account 
+08:49:27.780 [main] INFO  testCases.TC003_LoginDDD - Entered email
+08:49:27.814 [main] INFO  testCases.TC003_LoginDDD - Entered password
+08:49:48.452 [main] ERROR testCases.TC003_LoginDDD - Exception occurred: no such element: Unable to locate element: {"method":"xpath","selector":"//ul[@class='dropdown-menu dropdown-menu-right']//a[text()='Logout']"}
+  (Session info: chrome=138.0.7204.102)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.34.0', revision: '707dcb4246*'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '15.5', java.version: '23'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [ab3d57c266b0a1efdf639b660003e6d2, findElement {value=//ul[@class='dropdown-menu dropdown-menu-right']//a[text()='Logout'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 138.0.7204.102, chrome: {chromedriverVersion: 138.0.7204.157 (e533e98b126..., userDataDir: /var/folders/ff/wq2_7g9x1md...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55303}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:55303/devtoo..., se:cdpVersion: 138.0.7204.102, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: ab3d57c266b0a1efdf639b660003e6d2
+org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//ul[@class='dropdown-menu dropdown-menu-right']//a[text()='Logout']"}
+  (Session info: chrome=138.0.7204.102)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.34.0', revision: '707dcb4246*'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '15.5', java.version: '23'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [ab3d57c266b0a1efdf639b660003e6d2, findElement {value=//ul[@class='dropdown-menu dropdown-menu-right']//a[text()='Logout'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 138.0.7204.102, chrome: {chromedriverVersion: 138.0.7204.157 (e533e98b126..., userDataDir: /var/folders/ff/wq2_7g9x1md...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55303}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:55303/devtoo..., se:cdpVersion: 138.0.7204.102, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: ab3d57c266b0a1efdf639b660003e6d2
+	at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62) ~[?:?]
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:501) ~[?:?]
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:485) ~[?:?]
+	at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167) ~[selenium-remote-driver-4.34.0.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138) ~[selenium-remote-driver-4.34.0.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50) ~[selenium-remote-driver-4.34.0.jar:?]
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:215) ~[selenium-remote-driver-4.34.0.jar:?]
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216) ~[selenium-remote-driver-4.34.0.jar:?]
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174) ~[selenium-remote-driver-4.34.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:544) ~[selenium-remote-driver-4.34.0.jar:?]
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165) ~[selenium-remote-driver-4.34.0.jar:?]
+	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:59) ~[selenium-remote-driver-4.34.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:367) ~[selenium-remote-driver-4.34.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:361) ~[selenium-remote-driver-4.34.0.jar:?]
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:68) ~[selenium-support-4.34.0.jar:?]
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38) ~[selenium-support-4.34.0.jar:?]
+	at jdk.proxy2/jdk.proxy2.$Proxy30.click(Unknown Source) ~[?:?]
+	at pageObjects.MyAccountPage.clickLogout(MyAccountPage.java:35) ~[test-classes/:?]
+	at testCases.TC003_LoginDDD.verifyLoginDDT(TC003_LoginDDD.java:46) ~[test-classes/:?]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:687) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134) ~[testng-7.11.0.jar:7.11.0]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1597) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:741) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestRunner.run(TestRunner.java:616) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.runSuites(TestNG.java:1112) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.run(TestNG.java:1079) [testng-7.11.0.jar:7.11.0]
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91) [testng-remote.jar:?]
+08:49:48.463 [main] INFO  testCases.TC003_LoginDDD - *******TC Started***********
+08:49:48.495 [main] INFO  testCases.TC003_LoginDDD - Click MyAccount
+08:49:58.544 [main] ERROR testCases.TC003_LoginDDD - Exception occurred: element not interactable
+  (Session info: chrome=138.0.7204.102)
+Build info: version: '4.34.0', revision: '707dcb4246*'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '15.5', java.version: '23'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [ab3d57c266b0a1efdf639b660003e6d2, clickElement {id=f.FB0593081844C911D24B2CB3D5A9E293.d.9AE0A7A96A622D419392C67E8409B0DE.e.148}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 138.0.7204.102, chrome: {chromedriverVersion: 138.0.7204.157 (e533e98b126..., userDataDir: /var/folders/ff/wq2_7g9x1md...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55303}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:55303/devtoo..., se:cdpVersion: 138.0.7204.102, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on mac (ab3d57c266b0a1efdf639b660003e6d2)] -> xpath: //a[text()='Login']]
+Session ID: ab3d57c266b0a1efdf639b660003e6d2
+org.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=138.0.7204.102)
+Build info: version: '4.34.0', revision: '707dcb4246*'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '15.5', java.version: '23'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [ab3d57c266b0a1efdf639b660003e6d2, clickElement {id=f.FB0593081844C911D24B2CB3D5A9E293.d.9AE0A7A96A622D419392C67E8409B0DE.e.148}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 138.0.7204.102, chrome: {chromedriverVersion: 138.0.7204.157 (e533e98b126..., userDataDir: /var/folders/ff/wq2_7g9x1md...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55303}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:55303/devtoo..., se:cdpVersion: 138.0.7204.102, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on mac (ab3d57c266b0a1efdf639b660003e6d2)] -> xpath: //a[text()='Login']]
+Session ID: ab3d57c266b0a1efdf639b660003e6d2
+	at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62) ~[?:?]
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:501) ~[?:?]
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:485) ~[?:?]
+	at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167) ~[selenium-remote-driver-4.34.0.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138) ~[selenium-remote-driver-4.34.0.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50) ~[selenium-remote-driver-4.34.0.jar:?]
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:215) ~[selenium-remote-driver-4.34.0.jar:?]
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216) ~[selenium-remote-driver-4.34.0.jar:?]
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174) ~[selenium-remote-driver-4.34.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:544) ~[selenium-remote-driver-4.34.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:223) ~[selenium-remote-driver-4.34.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:76) ~[selenium-remote-driver-4.34.0.jar:?]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:51) ~[selenium-support-4.34.0.jar:?]
+	at jdk.proxy2/jdk.proxy2.$Proxy30.click(Unknown Source) ~[?:?]
+	at pageObjects.HomePage.clickLogin(HomePage.java:34) ~[test-classes/:?]
+	at testCases.TC003_LoginDDD.verifyLoginDDT(TC003_LoginDDD.java:22) ~[test-classes/:?]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:687) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134) ~[testng-7.11.0.jar:7.11.0]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1597) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:741) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestRunner.run(TestRunner.java:616) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.runSuites(TestNG.java:1112) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.run(TestNG.java:1079) [testng-7.11.0.jar:7.11.0]
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91) [testng-remote.jar:?]
+08:50:31.466 [main] INFO  testCases.TC003_LoginDDD - *******TC Started***********
+08:50:31.522 [main] INFO  testCases.TC003_LoginDDD - Click MyAccount
+08:50:31.722 [main] INFO  testCases.TC003_LoginDDD - Click Login in My Account 
+08:50:31.803 [main] INFO  testCases.TC003_LoginDDD - Entered email
+08:50:31.839 [main] INFO  testCases.TC003_LoginDDD - Entered password
+08:50:32.841 [main] INFO  testCases.TC003_LoginDDD - ******TC PASSED********
+08:50:32.842 [main] INFO  testCases.TC003_LoginDDD - ******TC Finished********
+08:50:32.845 [main] INFO  testCases.TC003_LoginDDD - *******TC Started***********
+08:50:32.881 [main] INFO  testCases.TC003_LoginDDD - Click MyAccount
+08:50:33.186 [main] INFO  testCases.TC003_LoginDDD - Click Login in My Account 
+08:50:33.219 [main] INFO  testCases.TC003_LoginDDD - Entered email
+08:50:33.250 [main] INFO  testCases.TC003_LoginDDD - Entered password
+08:50:43.839 [main] INFO  testCases.TC003_LoginDDD - ******TC PASSED********
+08:50:43.840 [main] INFO  testCases.TC003_LoginDDD - ******TC Finished********
+08:50:43.843 [main] INFO  testCases.TC003_LoginDDD - *******TC Started***********
+08:50:43.884 [main] INFO  testCases.TC003_LoginDDD - Click MyAccount
+08:50:44.234 [main] INFO  testCases.TC003_LoginDDD - Click Login in My Account 
+08:50:44.265 [main] INFO  testCases.TC003_LoginDDD - Entered email
+08:50:44.297 [main] INFO  testCases.TC003_LoginDDD - Entered password
+08:50:55.128 [main] INFO  testCases.TC003_LoginDDD - ******TC PASSED********
+08:50:55.129 [main] INFO  testCases.TC003_LoginDDD - ******TC Finished********
+08:12:53.098 [main] INFO  testCases.TC001_AccountRegisterationTest - ********** TC Started *********
+08:12:53.199 [main] INFO  testCases.TC001_AccountRegisterationTest - Click MyAccount
+08:12:53.487 [main] INFO  testCases.TC001_AccountRegisterationTest - Register
+08:12:54.502 [main] INFO  testCases.TC001_AccountRegisterationTest - ************ TC Finisdhed********
+08:12:56.830 [main] INFO  testCases.TC002_Login_Test - ********** TC Started *********
+08:12:56.894 [main] INFO  testCases.TC002_Login_Test - Click MyAccount
+08:12:57.074 [main] INFO  testCases.TC002_Login_Test - Click Login in My Account 
+08:12:57.158 [main] INFO  testCases.TC002_Login_Test - Entered email
+08:12:57.210 [main] INFO  testCases.TC002_Login_Test - Entered password
+08:12:57.991 [main] INFO  testCases.TC002_Login_Test - *********TC Passed***********
+08:12:57.991 [main] INFO  testCases.TC002_Login_Test - *********TC Finished***********
+09:05:03.373 [main] INFO  testCases.TC001_AccountRegisterationTest - ********** TC Started *********
+09:05:03.436 [main] INFO  testCases.TC001_AccountRegisterationTest - Click MyAccount
+09:05:04.352 [main] INFO  testCases.TC001_AccountRegisterationTest - Register
+09:05:07.603 [main] INFO  testCases.TC001_AccountRegisterationTest - ************ TC Finisdhed********
+09:05:09.974 [main] INFO  testCases.TC002_Login_Test - ********** TC Started *********
+09:05:10.019 [main] INFO  testCases.TC002_Login_Test - Click MyAccount
+09:05:10.213 [main] INFO  testCases.TC002_Login_Test - Click Login in My Account 
+09:05:10.292 [main] INFO  testCases.TC002_Login_Test - Entered email
+09:05:10.331 [main] INFO  testCases.TC002_Login_Test - Entered password
+09:05:11.159 [main] INFO  testCases.TC002_Login_Test - *********TC Passed***********
+09:05:11.159 [main] INFO  testCases.TC002_Login_Test - *********TC Finished***********
+09:07:20.745 [main] INFO  testCases.TC001_AccountRegisterationTest - ********** TC Started *********
+09:07:20.820 [main] INFO  testCases.TC001_AccountRegisterationTest - Click MyAccount
+09:07:21.353 [main] INFO  testCases.TC001_AccountRegisterationTest - Register
+09:07:22.381 [main] INFO  testCases.TC001_AccountRegisterationTest - ************ TC Finisdhed********
+09:07:24.389 [main] INFO  testCases.TC002_Login_Test - ********** TC Started *********
+09:07:24.456 [main] INFO  testCases.TC002_Login_Test - Click MyAccount
+09:07:24.632 [main] INFO  testCases.TC002_Login_Test - Click Login in My Account 
+09:07:24.713 [main] INFO  testCases.TC002_Login_Test - Entered email
+09:07:24.751 [main] INFO  testCases.TC002_Login_Test - Entered password
+09:07:25.398 [main] INFO  testCases.TC002_Login_Test - *********TC Passed***********
+09:07:25.398 [main] INFO  testCases.TC002_Login_Test - *********TC Finished***********
+09:20:41.450 [main] INFO  testCases.TC003_LoginDDD - *******TC Started***********
+09:20:41.963 [main] INFO  testCases.TC003_LoginDDD - Click MyAccount
+09:20:42.138 [main] INFO  testCases.TC003_LoginDDD - Click Login in My Account 
+09:20:42.218 [main] INFO  testCases.TC003_LoginDDD - Entered email
+09:20:42.255 [main] INFO  testCases.TC003_LoginDDD - Entered password
+09:20:52.827 [main] INFO  testCases.TC003_LoginDDD - ******TC PASSED********
+09:20:52.830 [main] INFO  testCases.TC003_LoginDDD - ******TC Finished********
+09:20:52.835 [main] INFO  testCases.TC003_LoginDDD - *******TC Started***********
+09:20:52.884 [main] INFO  testCases.TC003_LoginDDD - Click MyAccount
+09:20:53.056 [main] INFO  testCases.TC003_LoginDDD - Click Login in My Account 
+09:20:53.095 [main] INFO  testCases.TC003_LoginDDD - Entered email
+09:20:53.130 [main] INFO  testCases.TC003_LoginDDD - Entered password
+09:21:03.624 [main] INFO  testCases.TC003_LoginDDD - ******TC PASSED********
+09:21:03.626 [main] INFO  testCases.TC003_LoginDDD - ******TC Finished********
+08:38:54.923 [main] INFO  testCases.TC001_AccountRegisterationTest - ********** TC Started *********
+08:38:54.983 [main] INFO  testCases.TC001_AccountRegisterationTest - Click MyAccount
+08:38:55.246 [main] INFO  testCases.TC001_AccountRegisterationTest - Register
+08:38:56.520 [main] INFO  testCases.TC001_AccountRegisterationTest - ************ TC Finisdhed********
+08:39:00.781 [main] INFO  testCases.TC002_Login_Test - ********** TC Started *********
+08:39:00.832 [main] INFO  testCases.TC002_Login_Test - Click MyAccount
+08:39:01.108 [main] INFO  testCases.TC002_Login_Test - Click Login in My Account 
+08:39:01.194 [main] INFO  testCases.TC002_Login_Test - Entered email
+08:39:01.234 [main] INFO  testCases.TC002_Login_Test - Entered password
+08:39:03.357 [main] INFO  testCases.TC002_Login_Test - *********TC Passed***********
+08:39:03.357 [main] INFO  testCases.TC002_Login_Test - *********TC Finished***********
+08:43:23.020 [main] INFO  testCases.TC001_AccountRegisterationTest - ********** TC Started *********
+08:43:23.090 [main] INFO  testCases.TC001_AccountRegisterationTest - Click MyAccount
+08:43:23.351 [main] INFO  testCases.TC001_AccountRegisterationTest - Register
+08:43:24.727 [main] INFO  testCases.TC001_AccountRegisterationTest - ************ TC Finisdhed********
+08:43:29.915 [main] INFO  testCases.TC002_Login_Test - ********** TC Started *********
+08:43:29.982 [main] INFO  testCases.TC002_Login_Test - Click MyAccount
+08:43:30.185 [main] INFO  testCases.TC002_Login_Test - Click Login in My Account 
+08:43:30.296 [main] INFO  testCases.TC002_Login_Test - Entered email
+08:43:30.358 [main] INFO  testCases.TC002_Login_Test - Entered password
+08:43:31.045 [main] INFO  testCases.TC002_Login_Test - *********TC Passed***********
+08:43:31.045 [main] INFO  testCases.TC002_Login_Test - *********TC Finished***********
+08:44:37.208 [main] INFO  testCases.TC001_AccountRegisterationTest - ********** TC Started *********
+08:44:37.275 [main] INFO  testCases.TC001_AccountRegisterationTest - Click MyAccount
+08:44:37.550 [main] INFO  testCases.TC001_AccountRegisterationTest - Register
+08:44:38.767 [main] INFO  testCases.TC001_AccountRegisterationTest - ************ TC Finisdhed********
+08:44:41.017 [main] INFO  testCases.TC002_Login_Test - ********** TC Started *********
+08:44:41.082 [main] INFO  testCases.TC002_Login_Test - Click MyAccount
+08:44:41.271 [main] INFO  testCases.TC002_Login_Test - Click Login in My Account 
+08:44:41.368 [main] INFO  testCases.TC002_Login_Test - Entered email
+08:44:41.410 [main] INFO  testCases.TC002_Login_Test - Entered password
+08:44:42.111 [main] INFO  testCases.TC002_Login_Test - *********TC Passed***********
+08:44:42.111 [main] INFO  testCases.TC002_Login_Test - *********TC Finished***********
+08:47:32.875 [main] INFO  testCases.TC001_AccountRegisterationTest - ********** TC Started *********
+08:47:32.954 [main] INFO  testCases.TC001_AccountRegisterationTest - Click MyAccount
+08:47:33.232 [main] INFO  testCases.TC001_AccountRegisterationTest - Register
+08:47:34.413 [main] INFO  testCases.TC001_AccountRegisterationTest - ************ TC Finisdhed********
+08:47:36.868 [main] INFO  testCases.TC002_Login_Test - ********** TC Started *********
+08:47:36.935 [main] INFO  testCases.TC002_Login_Test - Click MyAccount
+08:47:37.134 [main] INFO  testCases.TC002_Login_Test - Click Login in My Account 
+08:47:37.243 [main] INFO  testCases.TC002_Login_Test - Entered email
+08:47:37.300 [main] INFO  testCases.TC002_Login_Test - Entered password
+08:47:38.077 [main] INFO  testCases.TC002_Login_Test - *********TC Passed***********
+08:47:38.077 [main] INFO  testCases.TC002_Login_Test - *********TC Finished***********
+17:10:25.256 [main] INFO  testCases.TC001_AccountRegisterationTest - ********** TC Started *********
+17:10:25.383 [main] INFO  testCases.TC001_AccountRegisterationTest - Click MyAccount
+17:10:25.748 [main] INFO  testCases.TC001_AccountRegisterationTest - Register
+17:10:27.384 [main] INFO  testCases.TC001_AccountRegisterationTest - ************ TC Finisdhed********
+17:10:28.541 [main] INFO  testCases.TC002_Login_Test - ********** TC Started *********
+17:10:28.643 [main] INFO  testCases.TC002_Login_Test - Click MyAccount
+17:10:28.897 [main] INFO  testCases.TC002_Login_Test - Click Login in My Account 
+17:10:29.005 [main] INFO  testCases.TC002_Login_Test - Entered email
+17:10:29.089 [main] INFO  testCases.TC002_Login_Test - Entered password
+17:10:30.136 [main] INFO  testCases.TC002_Login_Test - *********TC Passed***********
+17:10:30.136 [main] INFO  testCases.TC002_Login_Test - *********TC Finished***********
+17:13:21.197 [main] INFO  testCases.TC001_AccountRegisterationTest - ********** TC Started *********
+17:13:21.299 [main] INFO  testCases.TC001_AccountRegisterationTest - Click MyAccount
+17:13:21.623 [main] INFO  testCases.TC001_AccountRegisterationTest - Register
+17:13:23.288 [main] INFO  testCases.TC001_AccountRegisterationTest - ************ TC Finisdhed********
+17:13:24.496 [main] INFO  testCases.TC002_Login_Test - ********** TC Started *********
+17:13:24.609 [main] INFO  testCases.TC002_Login_Test - Click MyAccount
+17:13:24.933 [main] INFO  testCases.TC002_Login_Test - Click Login in My Account 
+17:13:25.045 [main] INFO  testCases.TC002_Login_Test - Entered email
+17:13:25.150 [main] INFO  testCases.TC002_Login_Test - Entered password
+17:13:26.137 [main] INFO  testCases.TC002_Login_Test - *********TC Passed***********
+17:13:26.137 [main] INFO  testCases.TC002_Login_Test - *********TC Finished***********
+17:13:30.070 [main] INFO  testCases.TC001_AccountRegisterationTest - ********** TC Started *********
+17:13:30.351 [main] INFO  testCases.TC001_AccountRegisterationTest - Click MyAccount
+17:13:30.724 [main] INFO  testCases.TC001_AccountRegisterationTest - Register
+17:13:32.064 [main] INFO  testCases.TC001_AccountRegisterationTest - ************ TC Finisdhed********
+17:13:35.179 [main] INFO  testCases.TC002_Login_Test - ********** TC Started *********
+17:13:35.444 [main] INFO  testCases.TC002_Login_Test - Click MyAccount
+17:13:35.670 [main] INFO  testCases.TC002_Login_Test - Click Login in My Account 
+17:13:35.751 [main] INFO  testCases.TC002_Login_Test - Entered email
+17:13:35.800 [main] INFO  testCases.TC002_Login_Test - Entered password
+17:13:36.741 [main] INFO  testCases.TC002_Login_Test - *********TC Passed***********
+17:13:36.741 [main] INFO  testCases.TC002_Login_Test - *********TC Finished***********
+17:39:14.193 [main] INFO  testCases.TC001_AccountRegisterationTest - ********** TC Started *********
+17:39:14.302 [main] INFO  testCases.TC001_AccountRegisterationTest - Click MyAccount
+17:39:14.640 [main] INFO  testCases.TC001_AccountRegisterationTest - Register
+17:39:16.130 [main] INFO  testCases.TC001_AccountRegisterationTest - ************ TC Finisdhed********
+17:39:17.335 [main] INFO  testCases.TC002_Login_Test - ********** TC Started *********
+17:39:17.455 [main] INFO  testCases.TC002_Login_Test - Click MyAccount
+17:39:17.723 [main] INFO  testCases.TC002_Login_Test - Click Login in My Account 
+17:39:17.832 [main] INFO  testCases.TC002_Login_Test - Entered email
+17:39:17.938 [main] INFO  testCases.TC002_Login_Test - Entered password
+17:39:18.789 [main] INFO  testCases.TC002_Login_Test - *********TC Passed***********
+17:39:18.790 [main] INFO  testCases.TC002_Login_Test - *********TC Finished***********
+17:39:22.942 [main] INFO  testCases.TC001_AccountRegisterationTest - ********** TC Started *********
+17:39:23.231 [main] INFO  testCases.TC001_AccountRegisterationTest - Click MyAccount
+17:39:23.550 [main] INFO  testCases.TC001_AccountRegisterationTest - Register
+17:39:24.914 [main] INFO  testCases.TC001_AccountRegisterationTest - ************ TC Finisdhed********
+17:39:27.981 [main] INFO  testCases.TC002_Login_Test - ********** TC Started *********
+17:39:28.239 [main] INFO  testCases.TC002_Login_Test - Click MyAccount
+17:39:28.498 [main] INFO  testCases.TC002_Login_Test - Click Login in My Account 
+17:39:28.576 [main] INFO  testCases.TC002_Login_Test - Entered email
+17:39:28.616 [main] INFO  testCases.TC002_Login_Test - Entered password
+17:39:29.354 [main] INFO  testCases.TC002_Login_Test - *********TC Passed***********
+17:39:29.354 [main] INFO  testCases.TC002_Login_Test - *********TC Finished***********
+08:05:01.037 [main] INFO  testCases.TC001_AccountRegisterationTest - ********** TC Started *********
+08:05:01.105 [main] INFO  testCases.TC001_AccountRegisterationTest - Click MyAccount
+08:05:01.493 [main] INFO  testCases.TC001_AccountRegisterationTest - Register
+08:05:07.407 [main] INFO  testCases.TC001_AccountRegisterationTest - ************ TC Finisdhed********
+08:05:09.705 [main] INFO  testCases.TC002_Login_Test - ********** TC Started *********
+08:05:09.755 [main] INFO  testCases.TC002_Login_Test - Click MyAccount
+08:05:09.981 [main] INFO  testCases.TC002_Login_Test - Click Login in My Account 
+08:05:10.067 [main] INFO  testCases.TC002_Login_Test - Entered email
+08:05:10.105 [main] INFO  testCases.TC002_Login_Test - Entered password
+08:05:10.917 [main] INFO  testCases.TC002_Login_Test - *********TC Passed***********
+08:05:10.918 [main] INFO  testCases.TC002_Login_Test - *********TC Finished***********
+08:15:05.581 [main] INFO  testCases.TC001_AccountRegisterationTest - ********** TC Started *********
+08:15:05.651 [main] INFO  testCases.TC001_AccountRegisterationTest - Click MyAccount
+08:15:06.945 [main] INFO  testCases.TC001_AccountRegisterationTest - Register
+08:15:08.395 [main] INFO  testCases.TC001_AccountRegisterationTest - ************ TC Finisdhed********
+08:15:12.495 [main] INFO  testCases.TC002_Login_Test - ********** TC Started *********
+08:15:12.545 [main] INFO  testCases.TC002_Login_Test - Click MyAccount
+08:15:12.798 [main] INFO  testCases.TC002_Login_Test - Click Login in My Account 
+08:15:12.889 [main] INFO  testCases.TC002_Login_Test - Entered email
+08:15:12.931 [main] INFO  testCases.TC002_Login_Test - Entered password
+08:15:13.641 [main] INFO  testCases.TC002_Login_Test - *********TC Passed***********
+08:15:13.641 [main] INFO  testCases.TC002_Login_Test - *********TC Finished***********
+08:22:49.612 [main] INFO  testCases.TC001_AccountRegisterationTest - ********** TC Started *********
+08:22:49.679 [main] INFO  testCases.TC001_AccountRegisterationTest - Click MyAccount
+08:22:49.938 [main] INFO  testCases.TC001_AccountRegisterationTest - Register
+08:22:51.052 [main] INFO  testCases.TC001_AccountRegisterationTest - ************ TC Finisdhed********
+08:22:53.280 [main] INFO  testCases.TC002_Login_Test - ********** TC Started *********
+08:22:53.344 [main] INFO  testCases.TC002_Login_Test - Click MyAccount
+08:22:53.570 [main] INFO  testCases.TC002_Login_Test - Click Login in My Account 
+08:22:53.661 [main] INFO  testCases.TC002_Login_Test - Entered email
+08:22:53.702 [main] INFO  testCases.TC002_Login_Test - Entered password
+08:22:54.430 [main] INFO  testCases.TC002_Login_Test - *********TC Passed***********
+08:22:54.430 [main] INFO  testCases.TC002_Login_Test - *********TC Finished***********
+08:25:15.505 [main] INFO  testCases.TC001_AccountRegisterationTest - ********** TC Started *********
+08:25:15.576 [main] INFO  testCases.TC001_AccountRegisterationTest - Click MyAccount
+08:25:15.869 [main] INFO  testCases.TC001_AccountRegisterationTest - Register
+08:25:17.087 [main] INFO  testCases.TC001_AccountRegisterationTest - ************ TC Finisdhed********
+08:25:19.173 [main] INFO  testCases.TC002_Login_Test - ********** TC Started *********
+08:25:19.234 [main] INFO  testCases.TC002_Login_Test - Click MyAccount
+08:25:19.421 [main] INFO  testCases.TC002_Login_Test - Click Login in My Account 
+08:25:19.511 [main] INFO  testCases.TC002_Login_Test - Entered email
+08:25:19.550 [main] INFO  testCases.TC002_Login_Test - Entered password
+08:25:20.377 [main] INFO  testCases.TC002_Login_Test - *********TC Passed***********
+08:25:20.378 [main] INFO  testCases.TC002_Login_Test - *********TC Finished***********
