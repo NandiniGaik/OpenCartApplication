@@ -26,8 +26,27 @@ public class DataProviders {
 		 System.out.println("✅ Excel Loaded from: " + new File(path).getAbsolutePath());
 		
 		return logindata;
-		
-		
-		
 	}
+
+	@DataProvider(name="SearchData")
+	public String[][] getSearchData() throws IOException{
+		String path="./testData/SearchData.xlsx";
+		ExcelUtility util= new ExcelUtility(path);
+		
+		int rowCount=util.getRowCount("Sheet1");
+		int  colCount=util.getCellCount("Sheet1", 1);
+		
+		String[][] logindata=new String[rowCount][colCount];
+		
+		for(int i=1;i<=rowCount;i++) {
+			for(int j=0;j<colCount;j++) {
+				logindata[i-1][j]=util.getCellData("Sheet1", i, j);
+				 System.out.println("Read Excel Data [" + (i-1) + "][" + j + "]: " + logindata[i - 1][j]);
+			}
+		}
+		 System.out.println("✅ Excel Loaded from: " + new File(path).getAbsolutePath());
+		
+		return logindata;
+	}
+	
 }

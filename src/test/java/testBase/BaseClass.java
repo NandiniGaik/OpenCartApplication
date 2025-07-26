@@ -12,18 +12,26 @@ import java.util.Properties;
 import org.apache.commons.lang3.RandomStringUtils;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
+import org.openqa.selenium.Keys;
 import org.openqa.selenium.OutputType;
 import org.openqa.selenium.Platform;
 import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
+import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.remote.DesiredCapabilities;
 import org.openqa.selenium.remote.RemoteWebDriver;
 import org.openqa.selenium.safari.SafariDriver;
+import org.openqa.selenium.support.ui.ExpectedConditions;
+import org.openqa.selenium.support.ui.WebDriverWait;
 import org.testng.annotations.AfterClass;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Parameters;
+
+import pageObjects.HomePage;
+import pageObjects.LoginPage;
 
 public class BaseClass {
 	public static WebDriver driver;
@@ -93,6 +101,8 @@ public class BaseClass {
 		driver.quit();
 	}
 	
+	
+	
 	public String generateRandomString() {
 		String str=RandomStringUtils.randomAlphabetic(5);
 		return str;
@@ -121,6 +131,18 @@ public class BaseClass {
 		sourceFile.renameTo(targetFile);
 		
 		return targetFilePath;
+	}
+	
+	public static void controlABackSpace(WebElement ele) {
+		ele.click();
+		Actions act=new Actions(driver);
+		act.keyDown(Keys.COMMAND).sendKeys("a").keyUp(Keys.COMMAND).keyDown(Keys.BACK_SPACE).keyUp(Keys.BACK_SPACE).perform();;
+		
+	}
+	
+	public static void waitUntilElementIsVisible(WebElement ele) {
+		WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(10));
+		wait.until(ExpectedConditions.visibilityOf(ele));
 	}
 
 

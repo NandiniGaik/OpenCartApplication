@@ -690,3 +690,218 @@ Session ID: ab3d57c266b0a1efdf639b660003e6d2
 08:25:19.550 [main] INFO  testCases.TC002_Login_Test - Entered password
 08:25:20.377 [main] INFO  testCases.TC002_Login_Test - *********TC Passed***********
 08:25:20.378 [main] INFO  testCases.TC002_Login_Test - *********TC Finished***********
+08:32:59.739 [main] INFO  testCases.TC001_AccountRegisterationTest - ********** TC Started *********
+08:32:59.815 [main] INFO  testCases.TC001_AccountRegisterationTest - Click MyAccount
+08:33:00.097 [main] INFO  testCases.TC001_AccountRegisterationTest - Register
+08:33:01.562 [main] INFO  testCases.TC001_AccountRegisterationTest - ************ TC Finisdhed********
+08:33:04.015 [main] INFO  testCases.TC002_Login_Test - ********** TC Started *********
+08:33:04.077 [main] INFO  testCases.TC002_Login_Test - Click MyAccount
+08:33:04.293 [main] INFO  testCases.TC002_Login_Test - Click Login in My Account 
+08:33:04.390 [main] INFO  testCases.TC002_Login_Test - Entered email
+08:33:04.438 [main] INFO  testCases.TC002_Login_Test - Entered password
+08:33:05.233 [main] INFO  testCases.TC002_Login_Test - *********TC Passed***********
+08:33:05.233 [main] INFO  testCases.TC002_Login_Test - *********TC Finished***********
+18:29:27.943 [main] INFO  testCases.TC004_Search - ********** TC Started *********
+18:29:28.041 [main] INFO  testCases.TC004_Search - Search data
+18:29:28.332 [main] INFO  testCases.TC004_Search - Click search icon
+18:29:33.381 [main] INFO  testCases.TC004_Search - ********** TC Passed *********
+18:29:33.381 [main] INFO  testCases.TC004_Search - ********** TC Finished *********
+18:45:23.122 [main] INFO  testCases.TC004_Search - ********** TC Started *********
+18:45:23.215 [main] INFO  testCases.TC004_Search - Search data
+18:45:23.489 [main] INFO  testCases.TC004_Search - Click search icon
+18:45:28.538 [main] INFO  testCases.TC004_Search - ********** TC Passed *********
+18:45:28.539 [main] INFO  testCases.TC004_Search - ********** TC Finished *********
+18:45:28.549 [main] INFO  testCases.TC004_Search - ********** TC Started *********
+18:45:28.586 [main] INFO  testCases.TC004_Search - Search data
+18:45:28.806 [main] INFO  testCases.TC004_Search - Click search icon
+18:45:44.265 [main] INFO  testCases.TC004_Search - ********** TC Started *********
+18:45:44.298 [main] INFO  testCases.TC004_Search - Search data
+18:45:44.651 [main] INFO  testCases.TC004_Search - Click search icon
+18:50:15.201 [main] INFO  testCases.TC004_Search - ********** TC Started *********
+18:50:15.298 [main] INFO  testCases.TC004_Search - Search data
+18:50:15.566 [main] INFO  testCases.TC004_Search - Click search icon
+18:50:20.674 [main] INFO  testCases.TC004_Search - ********** TC Passed *********
+18:50:20.674 [main] INFO  testCases.TC004_Search - ********** TC Finished *********
+18:50:20.686 [main] INFO  testCases.TC004_Search - ********** TC Started *********
+18:50:20.722 [main] INFO  testCases.TC004_Search - Search data
+18:50:21.021 [main] INFO  testCases.TC004_Search - Click search icon
+18:50:36.245 [main] INFO  testCases.TC004_Search - ********** TC Started *********
+18:50:36.279 [main] INFO  testCases.TC004_Search - Search data
+18:50:36.672 [main] INFO  testCases.TC004_Search - Click search icon
+18:52:20.892 [main] INFO  testCases.TC004_Search - ********** TC Started *********
+18:52:20.985 [main] INFO  testCases.TC004_Search - Search data
+18:52:21.713 [main] INFO  testCases.TC004_Search - Click search icon
+18:52:26.824 [main] INFO  testCases.TC004_Search - ********** TC Passed *********
+18:52:26.824 [main] INFO  testCases.TC004_Search - ********** TC Finished *********
+18:52:26.837 [main] INFO  testCases.TC004_Search - ********** TC Started *********
+18:52:26.868 [main] INFO  testCases.TC004_Search - Search data
+18:52:27.291 [main] INFO  testCases.TC004_Search - Click search icon
+18:52:42.528 [main] INFO  testCases.TC004_Search - ********** TC Started *********
+18:52:42.559 [main] INFO  testCases.TC004_Search - Search data
+18:52:43.185 [main] INFO  testCases.TC004_Search - Click search icon
+18:54:28.964 [main] INFO  testCases.TC004_Search - ********** TC Started *********
+18:54:29.051 [main] INFO  testCases.TC004_Search - Search data
+18:54:29.379 [main] INFO  testCases.TC004_Search - Click search icon
+18:54:34.464 [main] INFO  testCases.TC004_Search - ********** TC Passed *********
+18:54:34.464 [main] INFO  testCases.TC004_Search - ********** TC Finished *********
+18:54:34.476 [main] INFO  testCases.TC004_Search - ********** TC Started *********
+18:54:34.500 [main] INFO  testCases.TC004_Search - Search data
+18:54:34.784 [main] INFO  testCases.TC004_Search - Click search icon
+18:54:50.057 [main] INFO  testCases.TC004_Search - ********** TC Started *********
+18:54:50.090 [main] INFO  testCases.TC004_Search - Search data
+18:54:50.855 [main] INFO  testCases.TC004_Search - Click search icon
+19:05:23.221 [main] INFO  testCases.TC004_Search - ********** TC Started *********
+19:05:23.319 [main] INFO  testCases.TC004_Search - Search data
+19:05:23.587 [main] INFO  testCases.TC004_Search - Click search icon
+19:05:28.633 [main] INFO  testCases.TC004_Search - ********** TC Passed *********
+19:05:28.633 [main] INFO  testCases.TC004_Search - ********** TC Finished *********
+19:05:28.645 [main] INFO  testCases.TC004_Search - ********** TC Started *********
+19:05:28.683 [main] INFO  testCases.TC004_Search - Search data
+19:05:28.899 [main] INFO  testCases.TC004_Search - Click search icon
+19:05:44.136 [main] INFO  testCases.TC004_Search - ********** TC Started *********
+19:05:44.169 [main] INFO  testCases.TC004_Search - Search data
+19:05:44.797 [main] INFO  testCases.TC004_Search - Click search icon
+19:08:47.958 [main] INFO  testCases.TC004_Search - ********** TC Started *********
+19:08:48.052 [main] INFO  testCases.TC004_Search - Search data
+19:08:48.330 [main] INFO  testCases.TC004_Search - Click search icon
+19:08:53.392 [main] INFO  testCases.TC004_Search - ********** TC Passed *********
+19:08:53.392 [main] INFO  testCases.TC004_Search - ********** TC Finished *********
+19:08:53.402 [main] INFO  testCases.TC004_Search - ********** TC Started *********
+19:08:53.436 [main] INFO  testCases.TC004_Search - Search data
+19:08:53.652 [main] INFO  testCases.TC004_Search - Click search icon
+19:09:08.949 [main] INFO  testCases.TC004_Search - ********** TC Started *********
+19:09:08.984 [main] INFO  testCases.TC004_Search - Search data
+19:09:09.345 [main] INFO  testCases.TC004_Search - Click search icon
+19:11:21.608 [main] INFO  testCases.TC004_Search - ********** TC Started *********
+19:11:21.700 [main] INFO  testCases.TC004_Search - Search data
+19:11:21.956 [main] INFO  testCases.TC004_Search - Click search icon
+19:11:27.019 [main] INFO  testCases.TC004_Search - ********** TC Passed *********
+19:11:27.019 [main] INFO  testCases.TC004_Search - ********** TC Finished *********
+19:11:27.026 [main] INFO  testCases.TC004_Search - ********** TC Started *********
+19:11:27.061 [main] INFO  testCases.TC004_Search - Search data
+19:11:27.328 [main] INFO  testCases.TC004_Search - Click search icon
+19:11:42.600 [main] INFO  testCases.TC004_Search - ********** TC Started *********
+19:11:42.636 [main] INFO  testCases.TC004_Search - Search data
+19:11:43.397 [main] INFO  testCases.TC004_Search - Click search icon
+19:12:20.523 [main] INFO  testCases.TC004_Search - ********** TC Started *********
+19:12:20.618 [main] INFO  testCases.TC004_Search - Search data
+19:12:20.940 [main] INFO  testCases.TC004_Search - Click search icon
+19:12:26.065 [main] INFO  testCases.TC004_Search - ********** TC Passed *********
+19:12:26.066 [main] INFO  testCases.TC004_Search - ********** TC Finished *********
+19:12:26.075 [main] INFO  testCases.TC004_Search - ********** TC Started *********
+19:12:26.101 [main] INFO  testCases.TC004_Search - Search data
+19:12:26.933 [main] INFO  testCases.TC004_Search - Click search icon
+19:12:42.173 [main] INFO  testCases.TC004_Search - ********** TC Started *********
+19:12:42.206 [main] INFO  testCases.TC004_Search - Search data
+19:12:42.561 [main] INFO  testCases.TC004_Search - Click search icon
+19:15:37.201 [main] INFO  testCases.TC004_Search - ********** TC Started *********
+19:15:37.293 [main] INFO  testCases.TC004_Search - Search data
+19:15:37.588 [main] INFO  testCases.TC004_Search - Click search icon
+19:15:42.708 [main] INFO  testCases.TC004_Search - ********** TC Passed *********
+19:15:42.708 [main] INFO  testCases.TC004_Search - ********** TC Finished *********
+19:15:42.717 [main] INFO  testCases.TC004_Search - ********** TC Started *********
+19:15:42.741 [main] INFO  testCases.TC004_Search - Search data
+19:15:42.980 [main] INFO  testCases.TC004_Search - Click search icon
+19:15:58.074 [main] INFO  testCases.TC004_Search - ********** TC Passed *********
+19:15:58.074 [main] INFO  testCases.TC004_Search - ********** TC Finished *********
+19:15:58.076 [main] INFO  testCases.TC004_Search - ********** TC Started *********
+19:15:58.102 [main] INFO  testCases.TC004_Search - Search data
+19:15:58.719 [main] INFO  testCases.TC004_Search - Click search icon
+19:16:13.832 [main] INFO  testCases.TC004_Search - ********** TC Passed *********
+19:16:13.832 [main] INFO  testCases.TC004_Search - ********** TC Finished *********
+19:23:54.640 [main] INFO  testCases.TC004_Search - ********** TC Started *********
+19:23:56.143 [main] INFO  testCases.TC004_Search - ********** TC Started *********
+19:24:06.425 [main] INFO  testCases.TC004_Search - ********** TC Started *********
+19:34:57.270 [main] INFO  testCases.TC004_Search - ********** TC Started *********
+19:34:58.394 [main] INFO  testCases.TC004_Search - Search data
+19:34:58.697 [main] INFO  testCases.TC004_Search - Click search icon
+19:35:03.807 [main] INFO  testCases.TC004_Search - ********** TC Passed *********
+19:35:03.807 [main] INFO  testCases.TC004_Search - ********** TC Finished *********
+19:35:03.818 [main] INFO  testCases.TC004_Search - ********** TC Started *********
+19:35:14.120 [main] INFO  testCases.TC004_Search - ********** TC Started *********
+19:43:52.670 [main] INFO  testCases.TC004_Search - ********** TC Started *********
+19:43:53.861 [main] INFO  testCases.TC004_Search - Search data
+19:43:54.143 [main] INFO  testCases.TC004_Search - Click search icon
+19:43:59.665 [main] INFO  testCases.TC004_Search - ********** TC Passed *********
+19:43:59.665 [main] INFO  testCases.TC004_Search - ********** TC Finished *********
+19:43:59.675 [main] INFO  testCases.TC004_Search - ********** TC Started *********
+19:44:00.972 [main] INFO  testCases.TC004_Search - Search data
+19:44:01.217 [main] INFO  testCases.TC004_Search - Click search icon
+19:44:16.835 [main] INFO  testCases.TC004_Search - ********** TC Passed *********
+19:44:16.835 [main] INFO  testCases.TC004_Search - ********** TC Finished *********
+19:44:16.838 [main] INFO  testCases.TC004_Search - ********** TC Started *********
+19:44:18.350 [main] INFO  testCases.TC004_Search - Search data
+19:44:18.649 [main] INFO  testCases.TC004_Search - Click search icon
+19:44:34.581 [main] INFO  testCases.TC004_Search - ********** TC Passed *********
+19:44:34.581 [main] INFO  testCases.TC004_Search - ********** TC Finished *********
+19:45:11.204 [main] INFO  testCases.TC004_Search - ********** TC Started *********
+19:45:12.442 [main] INFO  testCases.TC004_Search - Search data
+19:45:12.741 [main] INFO  testCases.TC004_Search - Click search icon
+19:45:18.273 [main] INFO  testCases.TC004_Search - ********** TC Passed *********
+19:45:18.273 [main] INFO  testCases.TC004_Search - ********** TC Finished *********
+19:45:18.285 [main] INFO  testCases.TC004_Search - ********** TC Started *********
+19:45:19.410 [main] INFO  testCases.TC004_Search - Search data
+19:45:19.616 [main] INFO  testCases.TC004_Search - Click search icon
+19:45:35.320 [main] INFO  testCases.TC004_Search - ********** TC Passed *********
+19:45:35.320 [main] INFO  testCases.TC004_Search - ********** TC Finished *********
+19:45:35.324 [main] INFO  testCases.TC004_Search - ********** TC Started *********
+19:45:36.962 [main] INFO  testCases.TC004_Search - Search data
+19:45:37.185 [main] INFO  testCases.TC004_Search - Click search icon
+19:45:52.782 [main] INFO  testCases.TC004_Search - ********** TC Passed *********
+19:45:52.782 [main] INFO  testCases.TC004_Search - ********** TC Finished *********
+18:05:26.658 [main] INFO  testCases.TC004_Search - ********** TC Started *********
+18:05:27.766 [main] INFO  testCases.TC004_Search - Search data
+18:05:28.015 [main] INFO  testCases.TC004_Search - Click search icon
+18:05:33.668 [main] INFO  testCases.TC004_Search - ********** TC Passed *********
+18:05:33.668 [main] INFO  testCases.TC004_Search - ********** TC Finished *********
+18:05:33.678 [main] INFO  testCases.TC004_Search - ********** TC Started *********
+18:05:34.875 [main] INFO  testCases.TC004_Search - Search data
+18:05:35.150 [main] INFO  testCases.TC004_Search - Click search icon
+18:05:51.010 [main] INFO  testCases.TC004_Search - ********** TC Passed *********
+18:05:51.010 [main] INFO  testCases.TC004_Search - ********** TC Finished *********
+18:05:51.016 [main] INFO  testCases.TC004_Search - ********** TC Started *********
+18:06:41.723 [main] INFO  testCases.TC004_Search - ********** TC Started *********
+18:06:42.944 [main] INFO  testCases.TC004_Search - Search data
+18:06:43.201 [main] INFO  testCases.TC004_Search - Click search icon
+18:06:48.685 [main] INFO  testCases.TC004_Search - ********** TC Passed *********
+18:06:48.685 [main] INFO  testCases.TC004_Search - ********** TC Finished *********
+18:06:48.699 [main] INFO  testCases.TC004_Search - ********** TC Started *********
+18:06:49.737 [main] INFO  testCases.TC004_Search - Search data
+18:06:49.927 [main] INFO  testCases.TC004_Search - Click search icon
+18:07:05.533 [main] INFO  testCases.TC004_Search - ********** TC Passed *********
+18:07:05.534 [main] INFO  testCases.TC004_Search - ********** TC Finished *********
+18:07:05.537 [main] INFO  testCases.TC004_Search - ********** TC Started *********
+18:07:06.726 [main] INFO  testCases.TC004_Search - Search data
+18:07:06.927 [main] INFO  testCases.TC004_Search - Click search icon
+18:07:22.533 [main] INFO  testCases.TC004_Search - ********** TC Passed *********
+18:07:22.533 [main] INFO  testCases.TC004_Search - ********** TC Finished *********
+16:26:06.785 [main] INFO  testCases.TC004_Search - ********** TC Started *********
+16:26:06.901 [main] INFO  testCases.TC004_Search - Search data
+16:26:07.137 [main] INFO  testCases.TC004_Search - Click search icon
+16:26:12.272 [main] INFO  testCases.TC004_Search - ********** TC Passed *********
+16:26:12.272 [main] INFO  testCases.TC004_Search - ********** TC Finished *********
+16:26:12.287 [main] INFO  testCases.TC004_Search - ********** TC Started *********
+16:26:12.331 [main] INFO  testCases.TC004_Search - Search data
+16:26:12.519 [main] INFO  testCases.TC004_Search - Click search icon
+16:26:27.608 [main] INFO  testCases.TC004_Search - ********** TC Passed *********
+16:26:27.608 [main] INFO  testCases.TC004_Search - ********** TC Finished *********
+16:26:27.610 [main] INFO  testCases.TC004_Search - ********** TC Started *********
+16:26:27.645 [main] INFO  testCases.TC004_Search - Search data
+16:26:27.989 [main] INFO  testCases.TC004_Search - Click search icon
+16:26:43.113 [main] INFO  testCases.TC004_Search - ********** TC Passed *********
+16:26:43.113 [main] INFO  testCases.TC004_Search - ********** TC Finished *********
+16:26:43.194 [main] INFO  testCases.TC004_Search - ********** TC Started *********
+16:26:44.653 [main] INFO  testCases.TC004_Search - Search data
+16:26:44.857 [main] INFO  testCases.TC004_Search - Click search icon
+16:26:50.471 [main] INFO  testCases.TC004_Search - ********** TC Passed *********
+16:26:50.471 [main] INFO  testCases.TC004_Search - ********** TC Finished *********
+16:26:50.475 [main] INFO  testCases.TC004_Search - ********** TC Started *********
+16:26:51.853 [main] INFO  testCases.TC004_Search - Search data
+16:26:52.045 [main] INFO  testCases.TC004_Search - Click search icon
+16:27:07.735 [main] INFO  testCases.TC004_Search - ********** TC Passed *********
+16:27:07.735 [main] INFO  testCases.TC004_Search - ********** TC Finished *********
+16:27:07.740 [main] INFO  testCases.TC004_Search - ********** TC Started *********
+16:27:08.730 [main] INFO  testCases.TC004_Search - Search data
+16:27:08.933 [main] INFO  testCases.TC004_Search - Click search icon
+16:27:24.506 [main] INFO  testCases.TC004_Search - ********** TC Passed *********
+16:27:24.506 [main] INFO  testCases.TC004_Search - ********** TC Finished *********

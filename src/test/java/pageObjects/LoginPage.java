@@ -22,6 +22,9 @@ public class LoginPage extends BasePage{
 	@FindBy(xpath="//input[@value=\"Login\"]")
 	WebElement loginButtonLoc;
 	
+	@FindBy(xpath="//ul[@class=\"dropdown-menu dropdown-menu-right\"]//a[text()=\"Logout\"]")
+	WebElement logoutbtn;
+	
 	public void setEmail(String email) {
 		emailLoc.sendKeys(email);
 	}
@@ -32,6 +35,10 @@ public class LoginPage extends BasePage{
 	
 	public void clickLogin() {
 		loginButtonLoc.click();
+	}
+	
+	public void clickLogout() {
+		logoutbtn.click();
 	}
 
 }

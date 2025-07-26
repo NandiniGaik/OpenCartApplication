@@ -1,15 +1,7 @@
 package testCases;
 
-import org.testng.annotations.Test;
-import org.testng.AssertJUnit;
-import java.time.Duration;
-
-import org.apache.commons.lang3.RandomStringUtils;
-import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.Assert;
-import org.testng.annotations.AfterClass;
-import org.testng.annotations.BeforeClass;
+import org.testng.AssertJUnit;
 import org.testng.annotations.Test;
 
 import pageObjects.HomePage;
