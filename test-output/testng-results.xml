@@ -1,17 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-07-26T16:26:01 IST" name="Suite" finished-at="2025-07-26T16:27:24 IST" duration-ms="82890">
+  <suite started-at="2025-07-26T16:51:43 IST" name="Suite" finished-at="2025-07-26T16:51:55 IST" duration-ms="12753">
     <groups>
-      <group name="Master">
-        <method signature="TC004_Search.searchBoxTestHomePage(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC004_Search@45c7e403]" name="searchBoxTestHomePage" class="testCases.TC004_Search"/>
-        <method signature="TC004_Search.searchBoxTestHomePageAfterLogin(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC004_Search@45c7e403]" name="searchBoxTestHomePageAfterLogin" class="testCases.TC004_Search"/>
-      </group> <!-- Master -->
     </groups>
-    <test started-at="2025-07-26T16:26:01 IST" name="Test" finished-at="2025-07-26T16:27:24 IST" duration-ms="82890">
-      <class name="testCases.TC004_Search">
-        <test-method is-config="true" signature="setUp(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC004_Search@45c7e403]" started-at="2025-07-26T16:26:01 IST" name="setUp" finished-at="2025-07-26T16:26:06 IST" duration-ms="4401" status="PASS">
+    <test started-at="2025-07-26T16:51:43 IST" name="Test" finished-at="2025-07-26T16:51:55 IST" duration-ms="12753">
+      <class name="testCases.TC005_ProductCompare">
+        <test-method is-config="true" signature="setUp(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC005_ProductCompare@b3ca52e]" started-at="2025-07-26T16:51:43 IST" name="setUp" finished-at="2025-07-26T16:51:47 IST" duration-ms="4164" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -27,107 +23,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="searchBoxTestHomePage(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC004_Search@45c7e403]" started-at="2025-07-26T16:26:06 IST" name="searchBoxTestHomePage" data-provider="SearchData" finished-at="2025-07-26T16:26:12 IST" duration-ms="5498" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[iMac]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[Valid]]>
-              </value>
-            </param>
-          </params>
+        <test-method signature="testProductCompare()[pri:0, instance:testCases.TC005_ProductCompare@b3ca52e]" started-at="2025-07-26T16:51:47 IST" name="testProductCompare" finished-at="2025-07-26T16:51:55 IST" duration-ms="8295" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- searchBoxTestHomePage -->
-        <test-method signature="searchBoxTestHomePage(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC004_Search@45c7e403]" started-at="2025-07-26T16:26:12 IST" name="searchBoxTestHomePage" data-provider="SearchData" finished-at="2025-07-26T16:26:27 IST" duration-ms="15323" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[FitBit]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[Invalid]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- searchBoxTestHomePage -->
-        <test-method signature="searchBoxTestHomePage(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC004_Search@45c7e403]" started-at="2025-07-26T16:26:27 IST" name="searchBoxTestHomePage" data-provider="SearchData" finished-at="2025-07-26T16:26:43 IST" duration-ms="15503" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[Invalid]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- searchBoxTestHomePage -->
-        <test-method signature="searchBoxTestHomePageAfterLogin(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC004_Search@45c7e403]" started-at="2025-07-26T16:26:43 IST" name="searchBoxTestHomePageAfterLogin" data-provider="SearchData" finished-at="2025-07-26T16:26:50 IST" duration-ms="7277" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[iMac]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[Valid]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- searchBoxTestHomePageAfterLogin -->
-        <test-method signature="searchBoxTestHomePageAfterLogin(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC004_Search@45c7e403]" started-at="2025-07-26T16:26:50 IST" name="searchBoxTestHomePageAfterLogin" data-provider="SearchData" finished-at="2025-07-26T16:27:07 IST" duration-ms="17261" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[FitBit]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[Invalid]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- searchBoxTestHomePageAfterLogin -->
-        <test-method signature="searchBoxTestHomePageAfterLogin(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC004_Search@45c7e403]" started-at="2025-07-26T16:27:07 IST" name="searchBoxTestHomePageAfterLogin" data-provider="SearchData" finished-at="2025-07-26T16:27:24 IST" duration-ms="16767" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[Invalid]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- searchBoxTestHomePageAfterLogin -->
-        <test-method is-config="true" signature="teardown()[pri:0, instance:testCases.TC004_Search@45c7e403]" started-at="2025-07-26T16:27:24 IST" name="teardown" finished-at="2025-07-26T16:27:24 IST" duration-ms="130" status="PASS">
+        </test-method> <!-- testProductCompare -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:testCases.TC005_ProductCompare@b3ca52e]" started-at="2025-07-26T16:51:55 IST" name="teardown" finished-at="2025-07-26T16:51:55 IST" duration-ms="111" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
-      </class> <!-- testCases.TC004_Search -->
+      </class> <!-- testCases.TC005_ProductCompare -->
     </test> <!-- Test -->
   </suite> <!-- Suite -->
 </testng-results>

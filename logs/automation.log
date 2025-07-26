@@ -905,3 +905,11 @@ Session ID: ab3d57c266b0a1efdf639b660003e6d2
 16:27:08.933 [main] INFO  testCases.TC004_Search - Click search icon
 16:27:24.506 [main] INFO  testCases.TC004_Search - ********** TC Passed *********
 16:27:24.506 [main] INFO  testCases.TC004_Search - ********** TC Finished *********
+16:48:45.278 [main] INFO  testCases.TC004_Search - ********** TC Started *********
+16:48:45.393 [main] INFO  testCases.TC004_Search - Search data
+16:48:45.643 [main] INFO  testCases.TC004_Search - Click search icon
+16:48:50.793 [main] INFO  testCases.TC004_Search - ********** TC Passed *********
+16:48:50.794 [main] INFO  testCases.TC004_Search - ********** TC Finished *********
+16:48:50.804 [main] INFO  testCases.TC004_Search - ********** TC Started *********
+16:48:50.843 [main] INFO  testCases.TC004_Search - Search data
+16:48:51.042 [main] INFO  testCases.TC004_Search - Click search icon

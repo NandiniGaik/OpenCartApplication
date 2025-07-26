@@ -40,5 +40,16 @@ public class LoginPage extends BasePage{
 	public void clickLogout() {
 		logoutbtn.click();
 	}
+	
+    public void loginToApplication(String email,String password) {
+    	HomePage hp = new HomePage(driver);
+	    hp.clickMyAccount();
+	    hp.clickLogin();
+
+	    //LoginPage lp = new LoginPage(driver);
+	    setEmail(email);
+	    setPassword(password);
+	    clickLogin();
+    }
 
 }

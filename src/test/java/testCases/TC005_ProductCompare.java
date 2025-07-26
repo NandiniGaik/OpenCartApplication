@@ -15,15 +15,10 @@ public class TC005_ProductCompare extends BaseClass {
 	
 	@Test
 	public void testProductCompare() throws InterruptedException {
-		HomePage hp = new HomePage(driver);
-	    hp.clickMyAccount();
-	    hp.clickLogin();
 
 	    LoginPage lp = new LoginPage(driver);
-	    lp.setEmail(p.getProperty("email"));
-	    lp.setPassword(p.getProperty("password"));
-	    lp.clickLogin();
-	   
+	    lp.loginToApplication(p.getProperty("email"), p.getProperty("password"));
+	    HomePage hp=new HomePage(driver);
 	    hp.typeSearch("iMac");
 	    hp.clickSearch();
 		
