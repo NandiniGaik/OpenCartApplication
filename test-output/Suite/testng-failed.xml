@@ -8,12 +8,13 @@
     <parameter name="os" value="Mac"/>
     <parameter name="browser" value="chrome"/>
     <classes>
-      <class name="testCases.TC005_ProductCompare">
+      <class name="testCases.TC006_ProductDisplay">
         <methods>
+          <include name="teardown"/>
           <include name="setUp"/>
-          <include name="testProductCompare"/>
+          <include name="verifyProductsDisplayedThumbnail"/>
         </methods>
-      </class> <!-- testCases.TC005_ProductCompare -->
+      </class> <!-- testCases.TC006_ProductDisplay -->
     </classes>
   </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [Suite] -->

@@ -96,7 +96,7 @@ public class BaseClass {
 		driver.manage().window().maximize();
 	}
 	
-	@AfterClass(groups= {"Regression","Master","DataDriven"})
+	//@AfterClass(groups= {"Regression","Master","DataDriven"})
 	public void teardown() {
 		driver.quit();
 	}
@@ -143,6 +143,12 @@ public class BaseClass {
 	public static void waitUntilElementIsVisible(WebElement ele) {
 		WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(10));
 		wait.until(ExpectedConditions.visibilityOf(ele));
+	}
+
+	public void goToRegistrationPage() {
+	    HomePage hp = new HomePage(driver);
+	    hp.clickMyAccount();
+	    hp.clickRegister();
 	}
 
 

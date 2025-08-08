@@ -33,7 +33,16 @@ public class SearchHomePage extends BasePage{
 		productName.click();
 	}
 	
-	
+	public void searchProduct(String productToBeSeacrhed) {
+	    HomePage hp=new HomePage(driver);
+	    hp.typeSearch(productToBeSeacrhed);
+	    hp.clickSearch();
+		
+	   // SearchHomePage shp=new SearchHomePage(driver);
+	    clickProductSearched();
+	  
+	    //Thread.sleep(4000);
+	}
 	
 	
 }

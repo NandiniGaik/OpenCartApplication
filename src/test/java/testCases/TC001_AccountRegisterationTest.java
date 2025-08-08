@@ -11,20 +11,16 @@ import testBase.BaseClass;
 public class TC001_AccountRegisterationTest extends BaseClass {
 
 
+	Registeration reg;
 	
 	@Test(groups= {"Regression","Master"})
 	public void verifyAccountRegisteration() {
 		
 		logger.info("********** TC Started *********");
 		try {
-		HomePage hp=new HomePage(driver);
+		goToRegistrationPage();
 		
-		hp.clickMyAccount();
-		logger.info("Click MyAccount");
-		hp.clickRegister();
-		logger.info("Register");
-		
-		Registeration reg=new Registeration(driver);
+		reg=new Registeration(driver);
 		
 		reg.setFirstName(generateRandomString().toUpperCase());
 		
@@ -40,6 +36,13 @@ public class TC001_AccountRegisterationTest extends BaseClass {
 		
 		if(msg.equals("Your Account Has Been Created!")) {
 			Assert.assertTrue(true);
+			logger.info("Account created successfully.");
+			
+			reg.clickSuccessAccountRegContinue();
+			Assert.assertTrue(reg.isMyAccountDisplayed());
+			logger.info("My Account displayed");
+			
+			
 		}else {
 			logger.error("Test failed");
 			logger.debug("Debug logs");
@@ -57,6 +60,19 @@ public class TC001_AccountRegisterationTest extends BaseClass {
 		}
 		
 		logger.info("************ TC Finisdhed********");
+	}
+	
+	@Test(groups= {"Sanity"})
+	public void validateErrorMsgEmptyData() {
+		logger.info("********** TC Started *********");
+		goToRegistrationPage();
+		reg=new Registeration(driver);
+		reg.clickContinue();
+		Assert.assertTrue(reg.validateErrorMsg() && reg.validatePrivacyError());
+		
+		logger.info("********** TC Finished *********");
+		
+		
 	}
 	
 	

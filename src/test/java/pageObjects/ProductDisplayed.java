@@ -1,14 +1,16 @@
 package pageObjects;
 
+import java.util.List;
+
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 
 import testBase.BasePage;
 
-public class ProductCompare extends BasePage{
+public class ProductDisplayed extends BasePage{
 
-	public ProductCompare(WebDriver driver) {
+	public ProductDisplayed(WebDriver driver) {
 		super(driver);
 		// TODO Auto-generated constructor stub
 	}
@@ -25,6 +27,21 @@ public class ProductCompare extends BasePage{
 	@FindBy(xpath="//div[@id='content']//h1")
 	WebElement productComparisonText;
 	
+	@FindBy(xpath="//ul[@class='thumbnails']//a")
+	List<WebElement> thumbnails;
+	
+	@FindBy(xpath="//img[@class='mfp-img']")
+	WebElement whiteBox;
+	
+	@FindBy(xpath="//button[@class='mfp-arrow mfp-arrow-right mfp-prevent-close']")
+	WebElement nextButton;
+	
+	@FindBy(xpath="//button[@class='mfp-arrow mfp-arrow-left mfp-prevent-close']")
+	WebElement backButton;
+	
+	@FindBy(xpath="//button[@class='mfp-close']")
+	WebElement closeButton;
+	
 	public void clickProductCompareButton() {
 		productCompareButtonLoc.click();	
 	}
@@ -40,5 +57,26 @@ public class ProductCompare extends BasePage{
 	public String getTextProductComparisonText() {
 		return productComparisonText.getText();
 	}
+	
+	public boolean verifyThumbnail() throws InterruptedException {
+		for(WebElement we:thumbnails) {
+			we.click();
+			Thread.sleep(4000);
+			boolean b=whiteBox.isDisplayed();
+			nextButton.click();
+			backButton.click();
+			closeButton.click();
+			if(b==false) {
+				return false;
+			}
+			
+		}
+		return true;
+		
+		
+		
+	}
+	
+	
 	
 }

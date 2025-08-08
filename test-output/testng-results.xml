@@ -1,13 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+<testng-results ignored="1" total="2" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-07-26T16:51:43 IST" name="Suite" finished-at="2025-07-26T16:51:55 IST" duration-ms="12753">
+  <suite started-at="2025-08-08T07:10:03 IST" name="Suite" finished-at="2025-08-08T07:10:10 IST" duration-ms="7311">
     <groups>
+      <group name="Sanity">
+        <method signature="TC001_AccountRegisterationTest.validateErrorMsgEmptyData()[pri:0, instance:testCases.TC001_AccountRegisterationTest@65e98b1c]" name="validateErrorMsgEmptyData" class="testCases.TC001_AccountRegisterationTest"/>
+      </group> <!-- Sanity -->
     </groups>
-    <test started-at="2025-07-26T16:51:43 IST" name="Test" finished-at="2025-07-26T16:51:55 IST" duration-ms="12753">
-      <class name="testCases.TC005_ProductCompare">
-        <test-method is-config="true" signature="setUp(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC005_ProductCompare@b3ca52e]" started-at="2025-07-26T16:51:43 IST" name="setUp" finished-at="2025-07-26T16:51:47 IST" duration-ms="4164" status="PASS">
+    <test started-at="2025-08-08T07:10:03 IST" name="Test" finished-at="2025-08-08T07:10:10 IST" duration-ms="7311">
+      <class name="testCases.TC001_AccountRegisterationTest">
+        <test-method is-config="true" signature="setUp(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC001_AccountRegisterationTest@65e98b1c]" started-at="2025-08-08T07:10:03 IST" name="setUp" finished-at="2025-08-08T07:10:09 IST" duration-ms="5500" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -23,15 +26,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="testProductCompare()[pri:0, instance:testCases.TC005_ProductCompare@b3ca52e]" started-at="2025-07-26T16:51:47 IST" name="testProductCompare" finished-at="2025-07-26T16:51:55 IST" duration-ms="8295" status="PASS">
+        <test-method signature="validateErrorMsgEmptyData()[pri:0, instance:testCases.TC001_AccountRegisterationTest@65e98b1c]" started-at="2025-08-08T07:10:09 IST" name="validateErrorMsgEmptyData" finished-at="2025-08-08T07:10:10 IST" duration-ms="1672" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testProductCompare -->
-        <test-method is-config="true" signature="teardown()[pri:0, instance:testCases.TC005_ProductCompare@b3ca52e]" started-at="2025-07-26T16:51:55 IST" name="teardown" finished-at="2025-07-26T16:51:55 IST" duration-ms="111" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- teardown -->
-      </class> <!-- testCases.TC005_ProductCompare -->
+        </test-method> <!-- validateErrorMsgEmptyData -->
+      </class> <!-- testCases.TC001_AccountRegisterationTest -->
     </test> <!-- Test -->
   </suite> <!-- Suite -->
 </testng-results>

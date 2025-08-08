@@ -5,7 +5,7 @@ import org.testng.annotations.Test;
 
 import pageObjects.HomePage;
 import pageObjects.LoginPage;
-import pageObjects.ProductCompare;
+import pageObjects.ProductDisplayed;
 import pageObjects.SearchHomePage;
 import testBase.BaseClass;
 
@@ -17,17 +17,14 @@ public class TC005_ProductCompare extends BaseClass {
 	public void testProductCompare() throws InterruptedException {
 
 	    LoginPage lp = new LoginPage(driver);
+	    logger.info("********** TC Started *********");
 	    lp.loginToApplication(p.getProperty("email"), p.getProperty("password"));
-	    HomePage hp=new HomePage(driver);
-	    hp.typeSearch("iMac");
-	    hp.clickSearch();
-		
+	    
 	    SearchHomePage shp=new SearchHomePage(driver);
-	    shp.clickProductSearched();
 	    
-	    Thread.sleep(4000);
+	    ProductDisplayed pc=new ProductDisplayed(driver);
 	    
-	    ProductCompare pc=new ProductCompare(driver);
+	    shp.searchProduct("iMac");
 	    pc.clickProductCompareButton();
 	    
 	    String txt=pc.getAlertProductCompare();
@@ -39,7 +36,7 @@ public class TC005_ProductCompare extends BaseClass {
 	   
 	   Assert.assertEquals(pc.getTextProductComparisonText(), "Product Comparison");
 	   
-	    
+	   logger.info("********** TC Finished *********");
 		
 		
 		
